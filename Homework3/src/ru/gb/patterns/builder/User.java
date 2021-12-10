@@ -25,6 +25,10 @@ public class User {
         return patranimic;
     }
 
+    public UserBuilder builder(){
+        return new UserBuilder();
+    }
+
     public static class UserBuilder {
         private final User user = new User();
 
