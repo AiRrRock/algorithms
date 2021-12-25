@@ -1,0 +1,6 @@
+ru/gb/algorithms/MagicButtonApplication.java
+ ru.gb.algorithms.MagicButtonApplication
+ru/gb/algorithms/MagicButtonModel.java
+ ru.gb.algorithms.MagicButtonModel
+ru/gb/algorithms/MagicButtonController.java
+ ru.gb.algorithms.MagicButtonController
